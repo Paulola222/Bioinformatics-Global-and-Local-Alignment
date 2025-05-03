@@ -1,0 +1,4 @@
+[PostOrder Node id=6, depth=1, edge='$']
+[PostOrder Node id=5, depth=2, edge='$']
+[PostOrder Node id=10, depth=1, edge='A']
+[PostOrder Root id=7, depth=0]

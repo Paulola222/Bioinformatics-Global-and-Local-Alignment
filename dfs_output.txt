@@ -1,0 +1,4 @@
+[DFS Root id=7, depth=0]
+[DFS Node id=6, depth=1, edge='$']
+[DFS Node id=10, depth=1, edge='A']
+[DFS Node id=5, depth=2, edge='$']
