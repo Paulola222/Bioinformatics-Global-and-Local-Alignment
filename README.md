@@ -1,1 +1,1 @@
-# Bioinformatics-Global-and-Local-Alignment
+# Bioinformatics-Global-and-Local-Alignment and suffix tree
